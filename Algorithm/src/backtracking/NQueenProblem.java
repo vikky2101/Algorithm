@@ -13,7 +13,7 @@ public class NQueenProblem {
 			}
 		}
 		if (solveNQUtil(board, 0)) {
-			System.out.println("Solution possible");
+			System.out.println("Solution is possible");
 			printBoard(board);
 		}
 	}
