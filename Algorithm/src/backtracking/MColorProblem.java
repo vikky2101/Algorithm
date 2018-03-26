@@ -16,7 +16,7 @@ public class MColorProblem {
 				System.out.println(color[i]);
 			}
 		} else {
-			System.out.println("Solution not possible");
+			System.out.println("Solution is not possible");
 		}
 	}
 
